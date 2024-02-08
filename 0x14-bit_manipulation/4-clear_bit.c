@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * clear_bit - sets the value of a given bit to 0
- * @n: points to the number to change
- * @index:set index of the bit to clear
+ * clear_bit - this sets the value of a given bit to 0
+ * @n: this points to the number to change
+ * @index: this set index of the bit to clear
  *
  * Return: 1 for success, -1 for failure
  */
